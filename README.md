@@ -10,6 +10,6 @@ The separate Python .py files contain the MCMC simulations:
 - deltaT_errors is used to determine the errors on the combined eccentric+volcano plot.
 - Ttot_Tfull_errors is used to plot and extract the errors on the total and fully occulted times.
 
-The MCMC files have only been tested using 'Spyder'.
+The MCMC files have only been tested using 'Spyder'. The Jupyter Notebook generates several images and text files, so it is recommended to create a new directory when running this file.
 
 (All code is Copyright 2018 Jordan Lindsey.)
